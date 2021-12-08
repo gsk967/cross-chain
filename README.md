@@ -2,7 +2,7 @@
 > Transfering the funds from one chain to another chain with smart contracts 
 
 
-## Requirements (Install latest also)
+## Requirements (Install latest versions also)
 Go Lang (https://go.dev/doc/install)
 ```bash
 $ wget https://dl.google.com/go/go1.17.linux-amd64.tar.gz
@@ -34,6 +34,11 @@ $ evmosd version
 Ganache
 ```bash
 npm install ganache-cli@latest --global
+```
+
+Truffle 
+``bash
+npm install -g truffle
 ```
 
 ## Run the projects 
